@@ -35,7 +35,7 @@ This guide provides instructions for setting up Jupyter Lab on an AWS EC2 instan
 1. After the reboot, reconnect to your EC2 instance.
 
 2. Run the password setting script:
-`./after_reboot.sh`
+`./set_password.sh`
 
 3. When prompted, enter and confirm a password for Jupyter. This password will be used to access your Jupyter Lab instance.
 
