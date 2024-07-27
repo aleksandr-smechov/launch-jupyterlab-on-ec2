@@ -22,7 +22,7 @@ This guide provides instructions for setting up Jupyter Lab on an AWS EC2 instan
 ```
 
 4. Make the scripts executable:
-chmod +x before_reboot.sh set_password.sh final_setup.sh
+`chmod +x before_reboot.sh set_password.sh final_setup.sh`
 
 5. Run the initial setup script:
 `./before_reboot.sh`
